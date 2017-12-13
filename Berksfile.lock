@@ -1,0 +1,5 @@
+DEPENDENCIES
+  ruby_rbenv (~> 2.0.5)
+
+GRAPH
+  ruby_rbenv (2.0.5)

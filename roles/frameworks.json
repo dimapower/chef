@@ -1,0 +1,9 @@
+{
+  "name": "frameworks",
+  "description": "Installs frameworks into system",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[sinatra]"
+  ]
+}

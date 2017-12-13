@@ -1,0 +1,7 @@
+name             'First'
+maintainer       'Dima'
+maintainer_email 'example@.com'
+license          'All rights reserved'
+description      'Installs/Configures first'
+long_description 'Installs/Configures first'
+version          '0.1.0'

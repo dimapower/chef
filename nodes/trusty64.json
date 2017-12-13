@@ -1,0 +1,8 @@
+{
+  "run_list": [
+    "recipe[first::default]"
+  ],
+  "automatic": {
+    "ipaddress": "localhost"
+  }
+}
